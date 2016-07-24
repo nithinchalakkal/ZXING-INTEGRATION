@@ -1,1 +1,2 @@
-# ZXING-INTEGRATION
+
+The application Barcode Scanner is an Android app, from the open source project ZXing (short for Zebra Crossing), that allows a user to scan 1-D or 2-D "graphical barcodes" with the camera on their Android device. The program turns that scan into the original data that is represented by the barcode. This allows the user to get to web addresses, geographical coordinates, small pieces of text, and much more just by pointing their device's camera at a barcode. In this way the Android based system works almost like a conventional Barcode Reader except that it is only composed of commodity hardware and this software application.
